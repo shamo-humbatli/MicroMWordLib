@@ -1,0 +1,17 @@
+M:\Programming\C#\DWP\WordToDWiki\WordToDWiki\WordToDWiki\lib\MicroMWordLib\bin\Debug\MicroMWordLib.dll
+M:\Programming\C#\DWP\WordToDWiki\WordToDWiki\WordToDWiki\lib\MicroMWordLib\bin\Debug\MicroMWordLib.pdb
+M:\Programming\C#\DWP\WordToDWiki\WordToDWiki\WordToDWiki\lib\MicroMWordLib\bin\Debug\LittleImage.dll
+M:\Programming\C#\DWP\WordToDWiki\WordToDWiki\WordToDWiki\lib\MicroMWordLib\bin\Debug\LittleLyreLogger.dll
+M:\Programming\C#\DWP\WordToDWiki\WordToDWiki\WordToDWiki\lib\MicroMWordLib\bin\Debug\LittleImage.pdb
+M:\Programming\C#\DWP\WordToDWiki\WordToDWiki\WordToDWiki\lib\MicroMWordLib\bin\Debug\LittleLyreLogger.pdb
+M:\Programming\C#\DWP\WordToDWiki\WordToDWiki\WordToDWiki\lib\MicroMWordLib\obj\Debug\MicroMWordLib.csprojResolveAssemblyReference.cache
+M:\Programming\C#\DWP\WordToDWiki\WordToDWiki\WordToDWiki\lib\MicroMWordLib\obj\Debug\MicroMWordLib.csproj.ResolveComReference.cache
+M:\Programming\C#\DWP\WordToDWiki\WordToDWiki\WordToDWiki\lib\MicroMWordLib\obj\Debug\MicroMWordLib.csproj.CoreCompileInputs.cache
+M:\Programming\C#\DWP\WordToDWiki\WordToDWiki\WordToDWiki\lib\MicroMWordLib\obj\Debug\MicroMWordLib.dll
+M:\Programming\C#\DWP\WordToDWiki\WordToDWiki\WordToDWiki\lib\MicroMWordLib\obj\Debug\MicroMWordLib.pdb
+M:\Programming\C#\MyLibs\MicroMWordLib\MicroMWordLib\MicroMWordLib\obj\Debug\MicroMWordLib.csproj.ResolveComReference.cache
+M:\Programming\C#\MyLibs\MicroMWordLib\MicroMWordLib\MicroMWordLib\obj\Debug\MicroMWordLib.csproj.CoreCompileInputs.cache
+M:\Programming\C#\MyLibs\MicroMWordLib\MicroMWordLib\MicroMWordLib\bin\Debug\MicroMWordLib.dll
+M:\Programming\C#\MyLibs\MicroMWordLib\MicroMWordLib\MicroMWordLib\bin\Debug\MicroMWordLib.pdb
+M:\Programming\C#\MyLibs\MicroMWordLib\MicroMWordLib\MicroMWordLib\obj\Debug\MicroMWordLib.dll
+M:\Programming\C#\MyLibs\MicroMWordLib\MicroMWordLib\MicroMWordLib\obj\Debug\MicroMWordLib.pdb
